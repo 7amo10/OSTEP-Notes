@@ -1,14 +1,14 @@
 # OSTEP Notes
 
-A collection of my personal notes on the book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/).
+> [!Note]
+>
+> A collection of my personal notes on the book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 ## Chapters
 
 ### Introduction
 
 - Preface
-- A Dialogue on Operating Systems
-- Table of Contents (and Other Miscellany)
 - 1: A Dialogue on the Book
 - 2: Introduction to Operating Systems
 
@@ -23,14 +23,7 @@ A collection of my personal notes on the book [Operating Systems: Three Easy Pie
 - 9: Scheduling: Proportional Share
 - 10: Multiprocessor Scheduling
 - 11: A Dialogue on Virtualization Summary
-- Virtual Machines
-- A Dialogue on Virtual Machines
-- Monitors
-- A Dialogue on Monitors
-
-### Concurrency
-
-- 12: A Dialogue on Concurrency
+- 12: A Dialogue on Memory Virtualization
 - 13: The Abstraction: Address Spaces
 - 14: Interlude: Memory API
 - 15: Mechanism: Address Translation
@@ -42,11 +35,11 @@ A collection of my personal notes on the book [Operating Systems: Three Easy Pie
 - 21: Swapping: Mechanisms
 - 22: Swapping: Policies
 - 23: Complete Virtual Memory Systems
-- 24: A Dialogue on Concurrency Summary
+- 24: A Dialogue on Virtualization Summary
 
-### Persistence
+### Concurrency
 
-- 25: A Dialogue on Persistence
+- 25: A Dialogue on Concurrency
 - 26: Concurrency: An Introduction
 - 27: Interlude: Thread API
 - 28: Locks
@@ -55,11 +48,11 @@ A collection of my personal notes on the book [Operating Systems: Three Easy Pie
 - 31: Semaphores
 - 32: Common Concurrency Problems
 - 33: Event-based Concurrency (Advanced)
-- 34: A Dialogue on Persistence Summary
+- 34: A Dialogue on Concurrency Summary
 
-### Security
+### Persistence
 
-- 35: A Dialogue on Security
+- 35: A Dialogue on Persistence
 - 36: I/O Devices
 - 37: Hard Disk Drives
 - 38: Redundant Arrays of Inexpensive Disks (RAIDs)
@@ -70,7 +63,7 @@ A collection of my personal notes on the book [Operating Systems: Three Easy Pie
 - 43: The Log-structured File System (LFS)
 - 44: Flash-based SSDs
 - 45: Data Integrity and Protection
-- 46: A Dialogue on Security Summary
+- 46: A Dialogue on Persistence Summary
 - 47: A Dialogue on Distributed Systems
 - 48: Distributed Systems
 - 49: Network File System (NFS)
